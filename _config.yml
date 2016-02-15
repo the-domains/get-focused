@@ -1,0 +1,14 @@
+layout_spectrum: 0.2132616
+color:
+  saturation: 0.3476703
+  lightness: 0.7688172
+  brandStrength: 0.8978494
+  rhythmicContrast: 0.9103943
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.2311828
+name: Get Focused
